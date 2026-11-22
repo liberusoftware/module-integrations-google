@@ -3,6 +3,7 @@
 namespace Liberu\Integrations\Google\Services;
 
 use App\Models\Task;
+use Liberu\Foundation\Integrations\Services\CalendarService;
 
 class GoogleCalendarService implements CalendarService
 {

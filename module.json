@@ -3,7 +3,7 @@
   "name": "integrations-google",
   "display_name": "Google Integrations",
   "description": "Google Ads, Google Calendar, Gmail, and YouTube integration services.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "adapter",
   "provider": "Liberu\\Integrations\\Google\\IntegrationsGoogleServiceProvider",
   "requires": {
